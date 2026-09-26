@@ -177,7 +177,7 @@ HTML menyediakan enam tingkatan heading:
 - `<h6>` merupakan tingkatan heading paling rendah.
 
 Heading sebaiknya digunakan berdasarkan hierarki informasi, bukan hanya untuk memperbesar ukuran tulisan.
-![Gambar 4](Screenshot/ss5.png)
+![Gambar 4](Screenshot/ss6.png)
 
 
 ### Langkah 5 — Memformat Teks
