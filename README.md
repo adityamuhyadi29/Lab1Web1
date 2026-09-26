@@ -161,7 +161,7 @@ Tambahkan heading sebelum masing-masing paragraf:
     Browser akan menampilkan hasil interpretasi dari dokumen HTML.
 </p>
 ```
-![Gambar 4](Screenshot/ss5.png)
+![Gambar 5](Screenshot/ss5.png)
 
 **Penjelasan:**
 
@@ -177,13 +177,13 @@ HTML menyediakan enam tingkatan heading:
 - `<h6>` merupakan tingkatan heading paling rendah.
 
 Heading sebaiknya digunakan berdasarkan hierarki informasi, bukan hanya untuk memperbesar ukuran tulisan.
-![Gambar 4](Screenshot/ss6.png)
+![Gambar 6](Screenshot/ss6.png)
 
 
 ### Langkah 5 — Memformat Teks
 
 Tambahkan beberapa paragraf untuk mencoba format teks:
-![Gambar 4](Screenshot/ss6.png)
+![Gambar 7](Screenshot/ss7.png)
 
 ```html
 <h2>Memformat Teks</h2>
@@ -209,7 +209,8 @@ Tambahkan beberapa paragraf untuk mencoba format teks:
     dan <del>teks yang dihapus</del>.
 </p>
 ```
-![Gambar 4](Screenshot/ss7.png)
+![Gambar 8](Screenshot/ss8.png)
+
 **Penjelasan tag pemformatan:**
 
 | Tag | Fungsi |
@@ -233,6 +234,7 @@ Buat folder bernama `images` di dalam folder proyek.
 Masukkan foto profil ke folder tersebut dan beri nama `profil.jpg`.
 
 Tambahkan kode berikut di dalam `index.html`:
+![Gambar 9](Screenshot/ss9.png)
 
 ```html
 <h2>Menambahkan Gambar</h2>
@@ -242,6 +244,7 @@ Tambahkan kode berikut di dalam `index.html`:
     alt="Foto profil mahasiswa"
 >
 ```
+![Gambar 10](Screenshot/ss10.png)
 
 **Penjelasan:**
 
@@ -320,6 +323,8 @@ Masukkan struktur HTML berikut:
 
 Selanjutnya, tambahkan hyperlink berikut ke dalam `index.html`:
 
+![Gambar 11](Screenshot/ss11.png)
+
 ```html
 <h2>Contoh Hyperlink</h2>
 
@@ -333,6 +338,7 @@ Selanjutnya, tambahkan hyperlink berikut ke dalam `index.html`:
     Website Eksternal
 </a>
 ```
+![Gambar 12](Screenshot/ss12.png)
 
 **Penjelasan:**
 
@@ -353,6 +359,8 @@ Uji setiap hyperlink dengan membuka halaman utama dan mengklik tautan yang terse
 
 Tambahkan kode berikut untuk membuat daftar keahlian dan urutan belajar:
 
+![Gambar 13](Screenshot/ss13.png)
+
 ```html
 <h2>Keahlian</h2>
 
@@ -372,6 +380,8 @@ Tambahkan kode berikut untuk membuat daftar keahlian dan urutan belajar:
 </ol>
 ```
 
+![Gambar 14](Screenshot/ss14.png)
+
 **Penjelasan:**
 
 HTML memiliki dua jenis list utama:
@@ -386,6 +396,8 @@ List membantu menyajikan informasi agar lebih terstruktur dan mudah dibaca.
 
 Tambahkan komentar pada bagian kode HTML:
 
+![Gambar 15](Screenshot/ss15.png)
+
 ```html
 <!-- Bagian Profil Mahasiswa -->
 
@@ -398,6 +410,7 @@ Tambahkan komentar pada bagian kode HTML:
     <li>CSS</li>
 </ul>
 ```
+![Gambar 16](Screenshot/ss16.png)
 
 **Penjelasan:**
 
@@ -414,6 +427,9 @@ Komentar HTML bukan mekanisme untuk menyimpan informasi rahasia karena isi komen
 Pada tahap terakhir, gabungkan seluruh elemen yang telah dipelajari menjadi halaman Profil Mahasiswa.
 
 Ganti isi file `index.html` dengan kode berikut:
+
+![Gambar 17](Screenshot/ss17.png)
+![Gambar 18](Screenshot/ss18.png)
 
 ```html
 <!DOCTYPE html>
@@ -505,6 +521,7 @@ Ganti isi file `index.html` dengan kode berikut:
 </body>
 </html>
 ```
+![Gambar 19](Screenshot/ss19.png)
 
 **Penjelasan:**
 
