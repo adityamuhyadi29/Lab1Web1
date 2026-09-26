@@ -234,6 +234,7 @@ Buat folder bernama `images` di dalam folder proyek.
 Masukkan foto profil ke folder tersebut dan beri nama `profil.jpg`.
 
 Tambahkan kode berikut di dalam `index.html`:
+
 ![Gambar 9](Screenshot/ss9.png)
 
 ```html
@@ -410,6 +411,7 @@ Tambahkan komentar pada bagian kode HTML:
     <li>CSS</li>
 </ul>
 ```
+
 ![Gambar 16](Screenshot/ss16.png)
 
 **Penjelasan:**
@@ -429,6 +431,7 @@ Pada tahap terakhir, gabungkan seluruh elemen yang telah dipelajari menjadi hala
 Ganti isi file `index.html` dengan kode berikut:
 
 ![Gambar 17](Screenshot/ss17.png)
+
 ![Gambar 18](Screenshot/ss18.png)
 
 ```html
