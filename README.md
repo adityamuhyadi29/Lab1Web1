@@ -93,7 +93,7 @@ Masukkan kode berikut ke dalam file `index.html`:
 </body>
 </html>
 ```
-![Gambar 1](Screenshot/ss1.png.png)
+![Gambar 1](Screenshot/ss1.png)
 
 **Penjelasan kode:**
 
@@ -110,7 +110,7 @@ Setelah selesai, simpan file menggunakan `Ctrl + S`.
 Buka file `index.html` melalui browser dengan klik kanan pada file, kemudian pilih **Open with Live Server** jika ekstensi Live Server tersedia, atau buka file secara langsung melalui browser.
 
 **Hasil yang diharapkan:** Browser menampilkan halaman kosong dengan judul tab "Belajar HTML Dasar".
-![Gambar 2](Screenshot/ss2.png.png)
+![Gambar 2](Screenshot/ss2.png)
 
 ### Langkah 3 — Membuat Paragraf
 
@@ -128,7 +128,7 @@ Tambahkan kode berikut di dalam elemen `<body>`:
     Browser akan menampilkan hasil interpretasi dari dokumen HTML.
 </p>
 ```
-![Gambar 3](Screenshot/ss3.png.png)
+![Gambar 3](Screenshot/ss3.png)
 
 **Penjelasan:**
 
@@ -139,7 +139,7 @@ Dalam HTML, spasi dan pergantian baris di dalam kode biasanya diringkas menjadi 
 Simpan perubahan dan refresh browser.
 
 **Hasil yang diharapkan:** Terdapat dua paragraf yang ditampilkan secara berurutan.
-![Gambar 4](Screenshot/ss4.png.png)
+![Gambar 4](Screenshot/ss4.png)
 
 ### Langkah 4 — Menambahkan Judul (Heading)
 
