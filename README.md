@@ -183,6 +183,7 @@ Heading sebaiknya digunakan berdasarkan hierarki informasi, bukan hanya untuk me
 ### Langkah 5 — Memformat Teks
 
 Tambahkan beberapa paragraf untuk mencoba format teks:
+![Gambar 4](Screenshot/ss6.png)
 
 ```html
 <h2>Memformat Teks</h2>
@@ -208,7 +209,7 @@ Tambahkan beberapa paragraf untuk mencoba format teks:
     dan <del>teks yang dihapus</del>.
 </p>
 ```
-
+![Gambar 4](Screenshot/ss7.png)
 **Penjelasan tag pemformatan:**
 
 | Tag | Fungsi |
